@@ -52,3 +52,8 @@ This should be ~~crossed out~~.
 This is *italic* and you can go to [Google](http://google.com) if you want.
 
 Be sure to read [Report001](reports/report001.txt)
+
+### Images
+
+[example](images/example.png)
+
