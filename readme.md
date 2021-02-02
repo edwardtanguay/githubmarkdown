@@ -55,5 +55,5 @@ Be sure to read [Report001](reports/report001.txt)
 
 ### Images
 
-[example](images/example.png)
+![example](images/example.png)
 
