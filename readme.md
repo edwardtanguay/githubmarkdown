@@ -53,6 +53,6 @@ This is *italic* and you can go to [Google](http://google.com) if you want.
 
 Be sure to read [Report001](reports/report001.txt)
 
-### Images
+### Images with links
 
-[![Netlify Icon](images/netlify.png)](http://netlify.com)
+[![Netlify Icon](images/netlify.png "Goto Netlify to host for free")](http://netlify.com)
