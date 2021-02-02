@@ -13,6 +13,18 @@ This is a description.
 
 This should be ~~crossed out~~.
 
+This is `inline code` inside the sentence.
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 ---
 
 ### Lists
@@ -56,3 +68,11 @@ Be sure to read [Report001](reports/report001.txt)
 ### Images with links
 
 [![Netlify Icon](images/netlify.png "Goto Netlify to host for free")](http://netlify.com)
+
+### Tables
+
+| Name          | Team          | Score  |
+| ------------- |:-------------:| -----:|
+| Hans          | RGK001        |    45 |
+| Karol         | RGA004        |    32 |
+| Nicole        | RGB002        |    21 |
