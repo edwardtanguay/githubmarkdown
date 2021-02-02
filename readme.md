@@ -55,5 +55,4 @@ Be sure to read [Report001](reports/report001.txt)
 
 ### Images
 
-[Netflify Logo](images/netlify.png)
-
+![example](images/example.png)
