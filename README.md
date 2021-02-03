@@ -1,11 +1,6 @@
-# One
-## Two
-### Three
-#### Four
-##### Five
-###### Six
+# githubmarkup 
 
-This is a description.
+This repository simply shows the markup features one has available for the README.md file in a GitHub repository.
 
 ---
 
@@ -27,7 +22,7 @@ print s
 
 ---
 
-### Lists
+## Lists
 
 1. One
 2. Two
@@ -45,7 +40,7 @@ print s
 + Two
 + Three
 
-### Multi-Layer Lists
+## Multi-Layer Lists
 
 - Animals
     - Lion
@@ -59,17 +54,17 @@ print s
     - Russia
     - India
 
-### Links 
+## Links 
 
 This is *italic* and you can go to [Google](http://google.com) if you want.
 
 Be sure to read [Report001](reports/report001.txt)
 
-### Images with links
+## Images with links
 
 [![Netlify Icon](images/netlify.png "Goto Netlify to host for free")](http://netlify.com)
 
-### Tables
+## Tables
 
 | Name          | Team          | Score  |
 | ------------- |:-------------:| -----:|
@@ -77,12 +72,12 @@ Be sure to read [Report001](reports/report001.txt)
 | Karol         | RGA004        |    32 |
 | Nicole        | RGB002        |    21 |
 
-### Quotes
+## Quotes
 
 From *The Modern Web Development of JAMstack*:
 > The success of any development project can be compromised when robust version control management, such as Git, is not in place. It is common in web development for projects to employ version control throughout the development process, but then not extend the same version control conventions into the deployment process itself.
 
-### Definition Lists as HTML
+## Definition Lists as HTML
 
 <dl>
   <dt>Figma</dt>
