@@ -76,3 +76,18 @@ Be sure to read [Report001](reports/report001.txt)
 | Hans          | RGK001        |    45 |
 | Karol         | RGA004        |    32 |
 | Nicole        | RGB002        |    21 |
+
+### Quotes
+
+From *The Modern Web Development of JAMstack*:
+> The success of any development project can be compromised when robust version control management, such as Git, is not in place. It is common in web development for projects to employ version control throughout the development process, but then not extend the same version control conventions into the deployment process itself.
+
+### Definition Lists as HTML
+
+<dl>
+  <dt>Figma</dt>
+  <dd>a primarily web-based vector graphics editor and prototyping tool</dd>
+
+  <dt>Trello</dt>
+  <dd>project-organization and collaboration tool</dd>
+</dl>
