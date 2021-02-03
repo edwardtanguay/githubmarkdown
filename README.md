@@ -1,8 +1,3 @@
-<style>
-code {
-	color: red;
-}
-</style>
 # githubmarkup 
 
 This repository simply shows the markup features one has available for the README.md file in a GitHub repository.
